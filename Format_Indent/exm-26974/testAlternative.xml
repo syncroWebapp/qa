@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="test.css"?>
+<root xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="testAlternative.xsd">
+    <child a="b">
+        abb  cc       
+    </child>
+    <child b="c">
+         abb  cc          
+    </child>
+</root>
