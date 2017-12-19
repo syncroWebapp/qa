@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="topic_iw2_kml_k4">
+  <title></title>
+  <body>
+    <p><xref
+      href="doors://inc4209.server.de-hxg01.domain.com:36677/?version=2&amp;prodID=0&amp;urn=urn:telelogic::1-455c3682813a957b-M-00013f00"
+      format="html" scope="external"/></p>
+    <p><xref href="urn:x-some-resource-name" scope="peer" format="html"/></p>
+    <p><xref href="urn:x-some-resource-name" scope="local" format="dita"/></p>
+    <p>dd</p>
+  </body>
+</topic>
