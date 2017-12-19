@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="topic_prd_vv4_vk">
+  <title>Topic title</title>
+  <?oxy_attributes otherprops="&lt;change type=&quot;inserted&quot; author=&quot;author8&quot; timestamp=&quot;20130718T173315+0300&quot; /&gt;"?>
+  <body otherprops="prop1">
+    <?oxy_attributes audience="&lt;change type=&quot;inserted&quot; author=&quot;lorela&quot; timestamp=&quot;20130715T113935+0300&quot; /&gt;"?>
+    <topic id="introduction" base="ddd" audience="expert">
+      <?oxy_attributes base="&lt;change type=&quot;removed&quot; oldValue=&quot;4&quot; author=&quot;author8&quot; timestamp=&quot;20130716T154416+0300&quot; /&gt;"?>
+      <title outputclass="hdrrrrf">Introduction</title>
+      <?oxy_attributes importance="&lt;change type=&quot;inserted&quot; author=&quot;author8&quot; timestamp=&quot;20130723T155810+0300&quot; /&gt;" id="&lt;change type=&quot;removed&quot; oldValue=&quot;4rrr&quot; author=&quot;lorelas&quot; timestamp=&quot;20130801T144002+0300&quot; /&gt;"?>
+      <body xml:lang="en" base="ggg" importance="high">
+        <?oxy_attributes audience="&lt;change type=&quot;modified&quot; oldValue=&quot;expert&quot; author=&quot;lorela1&quot; timestamp=&quot;20130710T180436+0300&quot; /&gt;"?>
+        <p audience="novice">With just a little bit of care and preparation, any flower garden can
+          be a vibrantly colored environment. Flowers can be selected for specific blooming seasons,
+          colors and shapes. Both annual and <xref format="ditamap">perennial</xref> flower gardens
+          can be planted depending on climate and specific needs.</p>
+      </body>
+    </topic>
+    <?oxy_attributes id="&lt;change type=&quot;removed&quot; oldValue=&quot;existing&quot; author=&quot;lorelas&quot; timestamp=&quot;20130801T144027+0300&quot; /&gt;"?>
+    <p>Topic paragraph</p>
+  </body>
+</topic>
+
+
+
+
+<?oxy_options track_changes="on"?>
