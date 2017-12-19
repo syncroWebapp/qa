@@ -1,0 +1,1945 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:2.0" xmlns:xmrk="urn:xmarker"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:fs="urn:oasis:names:tc:xliff:fs:2.0"
+   xmlns:mtc="urn:oasis:names:tc:xliff:matches:2.0"
+   xmlns:gls="urn:oasis:names:tc:xliff:glossary:2.0"
+   xmlns:mda="urn:oasis:names:tc:xliff:metadata:2.0"
+   xmlns:res="urn:oasis:names:tc:xliff:resourcedata:2.0"
+   xmlns:ctr="urn:oasis:names:tc:xliff:changetracking:2.0"
+   xmlns:slr="urn:oasis:names:tc:xliff:sizerestriction:2.0"
+   xmlns:val="urn:oasis:names:tc:xliff:validation:2.0"
+   xmlns:opentopic-index="http://www.idiominc.com/opentopic/index"
+   xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+   xmlns:opentopic="http://www.idiominc.com/opentopic"
+   xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder" srcLang="en" version="2.0"
+   xsi:schemaLocation="urn:oasis:names:tc:xliff:document:2.0  xliff_core_2.0.xsd" trgLang="de">
+   <file original="/Users/george/Dropbox/promo/conferences/2016/xliff/dita/garage/garage.ditamap"
+      id="d1e1" canResegment="yes" translate="yes">
+      <skeleton>
+         <xmrk:nest>
+            <xmrk:type u_id="">map</xmrk:type>
+            <xmrk:outputURI>garage.ditamap</xmrk:outputURI>
+            <xmrk:file
+               xtrf="/Users/george/Dropbox/promo/conferences/2016/xliff/dita/garage/garage.ditamap">
+               <!-- This file is part of the DITA Open Toolkit project hosted on 
+     Sourceforge.net. See the accompanying license.txt file for 
+     applicable licenses.-->
+               <!-- (C) Copyright IBM Corporation 2001, 2005. All Rights Reserved.
+
+Modified by Syncro Soft 2016.
+-->
+               <xmrk:map xmarker_idref="map-0" ditaarch:DITAArchVersion="1.2"
+                  domains="(topic delay-d)                          (map mapgroup-d)                           (topic indexing-d)                          (map glossref-d)                          (topic hi-d)                           (topic ut-d)                           (topic hazard-d)                          (topic abbrev-d)                          (topic pr-d)                           (topic sw-d)                          (topic ui-d)                         "
+                  class="- map/map ">
+                  <xmrk:topicref xmarker_idref="topicref-1" href="tasks/carMaintenance.dita"
+                     class="- map/topicref ">
+                     <xmrk:topicref xmarker_idref="topicref-2" href="tasks/changingtheoil.dita"
+                        type="task" audience="expert" class="- map/topicref "/>
+                     <xmrk:topicref xmarker_idref="topicref-3" href="tasks/washingthecar.dita"
+                        type="task" class="- map/topicref "/>
+                  </xmrk:topicref>
+                  <xmrk:topicref xmarker_idref="topicref-4" href="tasks/garagetaskoverview.dita"
+                     type="concept" audience="expert novice" class="- map/topicref ">
+                     <xmrk:topicref xmarker_idref="topicref-5" href="tasks/organizing.dita"
+                        type="task" class="- map/topicref "/>
+                     <xmrk:topicref xmarker_idref="topicref-6" href="tasks/shovellingsnow.dita"
+                        type="task" class="- map/topicref "/>
+                     <xmrk:topicref xmarker_idref="topicref-7" href="tasks/spraypainting.dita"
+                        type="task" audience="expert" class="- map/topicref "/>
+                     <xmrk:topicref xmarker_idref="topicref-8" href="tasks/takinggarbage.dita"
+                        type="task" class="- map/topicref "/>
+                  </xmrk:topicref>
+                  <xmrk:topicref xmarker_idref="topicref-9"
+                     href="concepts/garageconceptsoverview.dita" type="concept"
+                     class="- map/topicref ">
+                     <xmrk:topicref xmarker_idref="topicref-10" href="concepts/lawnmower.dita"
+                        type="concept" class="- map/topicref "/>
+                     <xmrk:topicref xmarker_idref="topicref-11" href="concepts/oil.dita"
+                        type="concept" class="- map/topicref "/>
+                     <xmrk:topicref xmarker_idref="topicref-12" href="concepts/paint.dita"
+                        type="concept" class="- map/topicref "/>
+                     <xmrk:topicref xmarker_idref="topicref-13" href="concepts/shelving.dita"
+                        type="concept" class="- map/topicref "/>
+                     <xmrk:topicref xmarker_idref="topicref-14" href="concepts/snowshovel.dita"
+                        type="concept" class="- map/topicref "/>
+                     <xmrk:topicref xmarker_idref="topicref-15" href="concepts/toolbox.dita"
+                        type="concept" class="- map/topicref "/>
+                     <xmrk:topicref xmarker_idref="topicref-16" href="concepts/tools.dita"
+                        type="concept" class="- map/topicref "/>
+                     <xmrk:topicref xmarker_idref="topicref-17" href="concepts/waterhose.dita"
+                        type="concept" class="- map/topicref "/>
+                     <xmrk:topicref xmarker_idref="topicref-18" href="concepts/wheelbarrow.dita"
+                        type="concept" class="- map/topicref "/>
+                     <xmrk:topicref xmarker_idref="topicref-19" href="concepts/workbench.dita"
+                        type="concept" class="- map/topicref "/>
+                     <xmrk:topicref xmarker_idref="topicref-20" href="concepts/wwfluid.dita"
+                        type="concept" class="- map/topicref "/>
+                  </xmrk:topicref>
+               </xmrk:map>
+            </xmrk:file>
+         </xmrk:nest>
+      </skeleton>
+      <!-- This file is part of the DITA Open Toolkit project hosted on 
+     Sourceforge.net. See the accompanying license.txt file for 
+     applicable licenses.-->
+      <!-- (C) Copyright IBM Corporation 2001, 2005. All Rights Reserved.
+
+Modified by Syncro Soft 2016.
+-->
+      <group id="d7e3bxmarkmap-0">
+         <group id="d7e4bxmarktopicref-1">
+            <group id="d7e5cxmarktopicref-2">
+               <unit id="d7e5" name="empty_placeholder">
+                  <segment>
+                     <source/>
+                  </segment>
+               </unit>
+            </group>
+            <group id="d7e6cxmarktopicref-3">
+               <unit id="d7e6" name="empty_placeholder">
+                  <segment>
+                     <source/>
+                  </segment>
+               </unit>
+            </group>
+         </group>
+         <group id="d7e7bxmarktopicref-4">
+            <group id="d7e8cxmarktopicref-5">
+               <unit id="d7e8" name="empty_placeholder">
+                  <segment>
+                     <source/>
+                  </segment>
+               </unit>
+            </group>
+            <group id="d7e9cxmarktopicref-6">
+               <unit id="d7e9" name="empty_placeholder">
+                  <segment>
+                     <source/>
+                  </segment>
+               </unit>
+            </group>
+            <group id="d7e10cxmarktopicref-7">
+               <unit id="d7e10" name="empty_placeholder">
+                  <segment>
+                     <source/>
+                  </segment>
+               </unit>
+            </group>
+            <group id="d7e11cxmarktopicref-8">
+               <unit id="d7e11" name="empty_placeholder">
+                  <segment>
+                     <source/>
+                  </segment>
+               </unit>
+            </group>
+         </group>
+         <group id="d7e12bxmarktopicref-9">
+            <group id="d7e13cxmarktopicref-10">
+               <unit id="d7e13" name="empty_placeholder">
+                  <segment>
+                     <source/>
+                  </segment>
+               </unit>
+            </group>
+            <group id="d7e14cxmarktopicref-11">
+               <unit id="d7e14" name="empty_placeholder">
+                  <segment>
+                     <source/>
+                  </segment>
+               </unit>
+            </group>
+            <group id="d7e15cxmarktopicref-12">
+               <unit id="d7e15" name="empty_placeholder">
+                  <segment>
+                     <source/>
+                  </segment>
+               </unit>
+            </group>
+            <group id="d7e16cxmarktopicref-13">
+               <unit id="d7e16" name="empty_placeholder">
+                  <segment>
+                     <source/>
+                  </segment>
+               </unit>
+            </group>
+            <group id="d7e17cxmarktopicref-14">
+               <unit id="d7e17" name="empty_placeholder">
+                  <segment>
+                     <source/>
+                  </segment>
+               </unit>
+            </group>
+            <group id="d7e18cxmarktopicref-15">
+               <unit id="d7e18" name="empty_placeholder">
+                  <segment>
+                     <source/>
+                  </segment>
+               </unit>
+            </group>
+            <group id="d7e19cxmarktopicref-16">
+               <unit id="d7e19" name="empty_placeholder">
+                  <segment>
+                     <source/>
+                  </segment>
+               </unit>
+            </group>
+            <group id="d7e20cxmarktopicref-17">
+               <unit id="d7e20" name="empty_placeholder">
+                  <segment>
+                     <source/>
+                  </segment>
+               </unit>
+            </group>
+            <group id="d7e21cxmarktopicref-18">
+               <unit id="d7e21" name="empty_placeholder">
+                  <segment>
+                     <source/>
+                  </segment>
+               </unit>
+            </group>
+            <group id="d7e22cxmarktopicref-19">
+               <unit id="d7e22" name="empty_placeholder">
+                  <segment>
+                     <source/>
+                  </segment>
+               </unit>
+            </group>
+            <group id="d7e23cxmarktopicref-20">
+               <unit id="d7e23" name="empty_placeholder">
+                  <segment>
+                     <source/>
+                  </segment>
+               </unit>
+            </group>
+         </group>
+      </group>
+   </file>
+   <file
+      original="/Users/george/Dropbox/promo/conferences/2016/xliff/dita/garage/tasks/carMaintenance.dita"
+      id="d1e204">
+      <skeleton>
+         <xmrk:nest>
+            <xmrk:type u_id="unique_1">task</xmrk:type>
+            <xmrk:outputURI>tasks/carMaintenance.dita</xmrk:outputURI>
+            <xmrk:file
+               xtrf="/Users/george/Dropbox/promo/conferences/2016/xliff/dita/garage/tasks/carMaintenance.dita">
+               <xmrk:task xmarker_idref="task-0" id="carMaintenance" ditaarch:DITAArchVersion="1.2"
+                  domains="(topic task)                            (topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)                            (topic task strictTaskbody-c)    "
+                  class="- topic/topic task/task ">
+                  <xmrk:title xmarker_idref="title-1" class="- topic/title "/>
+                  <xmrk:shortdesc xmarker_idref="shortdesc-2" class="- topic/shortdesc "/>
+                  <xmrk:taskbody xmarker_idref="taskbody-3" class="- topic/body task/taskbody "/>
+               </xmrk:task>
+            </xmrk:file>
+         </xmrk:nest>
+      </skeleton>
+      <group id="d12e1bxmarktask-0">
+         <unit id="title-1">
+            <segment id="title-1seg">
+               <source>Car Maintenance</source>
+               <target>Car Maintenance</target>
+            </segment>
+         </unit>
+         <unit id="shortdesc-2">
+            <segment id="shortdesc-2seg">
+               <source>Avoid costly repairs by constantly performing simple maintenance
+                  tasks.</source>
+               <target>Avoid costly repairs by constantly performing simple maintenance
+                  tasks.</target>
+            </segment>
+         </unit>
+         <group id="d12e6cxmarktaskbody-3">
+            <unit id="d12e6" name="empty_placeholder">
+               <segment>
+                  <source/>
+               </segment>
+            </unit>
+         </group>
+      </group>
+   </file>
+   <file
+      original="/Users/george/Dropbox/promo/conferences/2016/xliff/dita/garage/tasks/changingtheoil.dita"
+      id="d1e229">
+      <skeleton>
+         <xmrk:nest>
+            <xmrk:type u_id="unique_2">task</xmrk:type>
+            <xmrk:outputURI>tasks/changingtheoil.dita</xmrk:outputURI>
+            <xmrk:file
+               xtrf="/Users/george/Dropbox/promo/conferences/2016/xliff/dita/garage/tasks/changingtheoil.dita">
+               <!-- This file is part of the DITA Open Toolkit project hosted on 
+     Sourceforge.net. See the accompanying license.txt file for 
+     applicable licenses.-->
+               <!-- (C) Copyright IBM Corporation 2001, 2005. All Rights Reserved.
+ *-->
+               <xmrk:task xmarker_idref="task-0" id="changeoil" xml:lang="en-us"
+                  ditaarch:DITAArchVersion="1.2"
+                  domains="(topic task)                            (topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)                            (topic task strictTaskbody-c)    "
+                  class="- topic/topic task/task ">
+                  <xmrk:title xmarker_idref="title-1" class="- topic/title "/>
+                  <xmrk:shortdesc xmarker_idref="shortdesc-2" class="- topic/shortdesc "/>
+                  <xmrk:taskbody xmarker_idref="taskbody-3" class="- topic/body task/taskbody ">
+                     <xmrk:context xmarker_idref="context-4" class="- topic/section task/context ">
+                        <xmrk:p xmarker_idref="p-5" class="- topic/p "/>
+                     </xmrk:context>
+                     <xmrk:steps xmarker_idref="steps-6" class="- topic/ol task/steps ">
+                        <xmrk:stepsection xmarker_idref="stepsection-7"
+                           class="- topic/li task/stepsection "/>
+                        <xmrk:step xmarker_idref="step-8" class="- topic/li task/step ">
+                           <xmrk:cmd xmarker_idref="cmd-9" class="- topic/ph task/cmd "/>
+                        </xmrk:step>
+                        <xmrk:step xmarker_idref="step-10" class="- topic/li task/step ">
+                           <xmrk:cmd xmarker_idref="cmd-11" class="- topic/ph task/cmd "/>
+                        </xmrk:step>
+                        <xmrk:step xmarker_idref="step-12" class="- topic/li task/step ">
+                           <xmrk:cmd xmarker_idref="cmd-13" class="- topic/ph task/cmd "/>
+                        </xmrk:step>
+                        <xmrk:step xmarker_idref="step-14" class="- topic/li task/step ">
+                           <xmrk:cmd xmarker_idref="cmd-15" class="- topic/ph task/cmd "/>
+                        </xmrk:step>
+                        <xmrk:step xmarker_idref="step-16" class="- topic/li task/step ">
+                           <xmrk:cmd xmarker_idref="cmd-17" class="- topic/ph task/cmd "/>
+                        </xmrk:step>
+                        <xmrk:step xmarker_idref="step-18" class="- topic/li task/step ">
+                           <xmrk:cmd xmarker_idref="cmd-19" class="- topic/ph task/cmd "/>
+                        </xmrk:step>
+                        <xmrk:step xmarker_idref="step-20" class="- topic/li task/step ">
+                           <xmrk:cmd xmarker_idref="cmd-21" class="- topic/ph task/cmd "/>
+                        </xmrk:step>
+                        <xmrk:step xmarker_idref="step-22" class="- topic/li task/step ">
+                           <xmrk:cmd xmarker_idref="cmd-23" class="- topic/ph task/cmd "/>
+                        </xmrk:step>
+                     </xmrk:steps>
+                  </xmrk:taskbody>
+                  <xmrk:related-links xmarker_idref="related-links-24"
+                     class="- topic/related-links ">
+                     <xmrk:link xmarker_idref="link-25" href="../concepts/oil.dita" format="dita"
+                        type="concept" class="- topic/link "/>
+                     <xmrk:link xmarker_idref="link-26" href="../concepts/wwfluid.dita"
+                        format="dita" type="concept" class="- topic/link "/>
+                  </xmrk:related-links>
+               </xmrk:task>
+            </xmrk:file>
+         </xmrk:nest>
+      </skeleton>
+      <!-- This file is part of the DITA Open Toolkit project hosted on 
+     Sourceforge.net. See the accompanying license.txt file for 
+     applicable licenses.-->
+      <!-- (C) Copyright IBM Corporation 2001, 2005. All Rights Reserved.
+ *-->
+      <group id="d17e3bxmarktask-0">
+         <unit id="title-1">
+            <segment id="title-1seg">
+               <source>Changing the oil in your car</source>
+               <target>Changing the oil in your car</target>
+            </segment>
+         </unit>
+         <unit id="shortdesc-2">
+            <segment id="shortdesc-2seg">
+               <source>Once every 6000 kilometers or three months, change the oil in your
+                  car.</source>
+               <target>Once every 6000 kilometers or three months, change the oil in your
+                  car.</target>
+            </segment>
+         </unit>
+         <group id="d17e8bxmarktaskbody-3">
+            <group id="d17e9bxmarkcontext-4">
+               <unit id="p-5">
+                  <segment id="p-5seg">
+                     <source>Changing the oil regularly will help keep the engine in good condition. </source>
+                     <target>Changing the oil regularly will help keep the engine in good condition.
+                     </target>
+                  </segment>
+               </unit>
+            </group>
+            <group id="d17e12bxmarksteps-6">
+               <unit id="stepsection-7">
+                  <segment id="stepsection-7seg">
+                     <source>To change the oil:</source>
+                     <target>To change the oil:</target>
+                  </segment>
+               </unit>
+               <group id="d17e15bxmarkstep-8">
+                  <unit id="cmd-9">
+                     <segment id="cmd-9seg">
+                        <source>Remove the old oil filter.</source>
+                        <target>Remove the old oil filter.</target>
+                     </segment>
+                  </unit>
+               </group>
+               <group id="d17e18bxmarkstep-10">
+                  <unit id="cmd-11">
+                     <segment id="cmd-11seg">
+                        <source>Drain the old oil.</source>
+                        <target>Drain the old oil.</target>
+                     </segment>
+                  </unit>
+               </group>
+               <group id="d17e21bxmarkstep-12">
+                  <unit id="cmd-13">
+                     <segment id="cmd-13seg">
+                        <source>Recycle the oil and oil filter by taking them to the nearest service
+                           station or auto shop.</source>
+                        <target>Recycle the oil and oil filter by taking them to the nearest service
+                           station or auto shop.</target>
+                     </segment>
+                  </unit>
+               </group>
+               <group id="d17e24bxmarkstep-14">
+                  <unit id="cmd-15">
+                     <segment id="cmd-15seg">
+                        <source>Install the drain plug.</source>
+                        <target>Install the drain plug.</target>
+                     </segment>
+                  </unit>
+               </group>
+               <group id="d17e27bxmarkstep-16">
+                  <unit id="cmd-17">
+                     <segment id="cmd-17seg">
+                        <source>Install a new oil filter and gasket. Most oil filters need to be
+                           tightened by hand. Overtightening them might damage the gasket.</source>
+                        <target>Install a new oil filter and gasket. Most oil filters need to be
+                           tightened by hand. Overtightening them might damage the gasket.</target>
+                     </segment>
+                  </unit>
+               </group>
+               <group id="d17e30bxmarkstep-18">
+                  <unit id="cmd-19">
+                     <segment id="cmd-19seg">
+                        <source>Add new oil to the engine.</source>
+                        <target>Add new oil to the engine.</target>
+                     </segment>
+                  </unit>
+               </group>
+               <group id="d17e33bxmarkstep-20">
+                  <unit id="cmd-21">
+                     <segment id="cmd-21seg">
+                        <source>Check the air filter and replace or clean it.</source>
+                        <target>Check the air filter and replace or clean it.</target>
+                     </segment>
+                  </unit>
+               </group>
+               <group id="d17e36bxmarkstep-22">
+                  <unit id="cmd-23">
+                     <segment id="cmd-23seg">
+                        <source>Top up the windshield washer fluid.</source>
+                        <target>Top up the windshield washer fluid.</target>
+                     </segment>
+                  </unit>
+               </group>
+            </group>
+         </group>
+         <group id="d17e39bxmarkrelated-links-24">
+            <group id="d17e40cxmarklink-25">
+               <unit id="d17e40" name="empty_placeholder">
+                  <segment>
+                     <source/>
+                  </segment>
+               </unit>
+            </group>
+            <group id="d17e41cxmarklink-26">
+               <unit id="d17e41" name="empty_placeholder">
+                  <segment>
+                     <source/>
+                  </segment>
+               </unit>
+            </group>
+         </group>
+      </group>
+   </file>
+   <file
+      original="/Users/george/Dropbox/promo/conferences/2016/xliff/dita/garage/tasks/washingthecar.dita"
+      id="d1e289">
+      <skeleton>
+         <xmrk:nest>
+            <xmrk:type u_id="unique_3">task</xmrk:type>
+            <xmrk:outputURI>tasks/washingthecar.dita</xmrk:outputURI>
+            <xmrk:file
+               xtrf="/Users/george/Dropbox/promo/conferences/2016/xliff/dita/garage/tasks/washingthecar.dita">
+               <!-- This file is part of the DITA Open Toolkit project hosted on 
+     Sourceforge.net. See the accompanying license.txt file for 
+     applicable licenses.-->
+               <!-- (C) Copyright IBM Corporation 2001, 2005. All Rights Reserved.
+ *-->
+               <xmrk:task xmarker_idref="task-0" id="washcar" xml:lang="en-us"
+                  ditaarch:DITAArchVersion="1.2"
+                  domains="(topic task)                            (topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)                            (topic task strictTaskbody-c)    "
+                  class="- topic/topic task/task ">
+                  <xmrk:title xmarker_idref="title-1" class="- topic/title "/>
+                  <xmrk:shortdesc xmarker_idref="shortdesc-2" class="- topic/shortdesc "/>
+                  <xmrk:taskbody xmarker_idref="taskbody-3" class="- topic/body task/taskbody ">
+                     <xmrk:steps xmarker_idref="steps-4" class="- topic/ol task/steps ">
+                        <xmrk:step xmarker_idref="step-5" class="- topic/li task/step ">
+                           <xmrk:cmd xmarker_idref="cmd-6" class="- topic/ph task/cmd "/>
+                        </xmrk:step>
+                        <xmrk:step xmarker_idref="step-7" class="- topic/li task/step ">
+                           <xmrk:cmd xmarker_idref="cmd-8" class="- topic/ph task/cmd "/>
+                        </xmrk:step>
+                        <xmrk:step xmarker_idref="step-9" class="- topic/li task/step ">
+                           <xmrk:cmd xmarker_idref="cmd-10" class="- topic/ph task/cmd "/>
+                        </xmrk:step>
+                        <xmrk:step xmarker_idref="step-11" class="- topic/li task/step ">
+                           <xmrk:cmd xmarker_idref="cmd-12" class="- topic/ph task/cmd "/>
+                        </xmrk:step>
+                        <xmrk:step xmarker_idref="step-13" class="- topic/li task/step ">
+                           <xmrk:cmd xmarker_idref="cmd-14" class="- topic/ph task/cmd "/>
+                        </xmrk:step>
+                        <xmrk:step xmarker_idref="step-15" class="- topic/li task/step ">
+                           <xmrk:cmd xmarker_idref="cmd-16" class="- topic/ph task/cmd "/>
+                        </xmrk:step>
+                     </xmrk:steps>
+                     <xmrk:result xmarker_idref="result-17" class="- topic/section task/result ">
+                        <xmrk:p xmarker_idref="p-18" class="- topic/p ">
+                           <xmrk:image xmarker_idref="image-19" href="../image/carwash.jpg"
+                              alt="washing the car" height="171" width="249" placement="inline"
+                              class="- topic/image "/>
+                        </xmrk:p>
+                     </xmrk:result>
+                  </xmrk:taskbody>
+                  <xmrk:related-links xmarker_idref="related-links-20"
+                     class="- topic/related-links ">
+                     <xmrk:link xmarker_idref="link-21" href="../concepts/waterhose.dita"
+                        format="dita" type="concept" class="- topic/link "/>
+                  </xmrk:related-links>
+               </xmrk:task>
+            </xmrk:file>
+         </xmrk:nest>
+      </skeleton>
+      <!-- This file is part of the DITA Open Toolkit project hosted on 
+     Sourceforge.net. See the accompanying license.txt file for 
+     applicable licenses.-->
+      <!-- (C) Copyright IBM Corporation 2001, 2005. All Rights Reserved.
+ *-->
+      <group id="d22e3bxmarktask-0">
+         <unit id="title-1">
+            <segment id="title-1seg">
+               <source>Washing the car</source>
+               <target>Washing the car</target>
+            </segment>
+         </unit>
+         <unit id="shortdesc-2">
+            <segment id="shortdesc-2seg">
+               <source>Keep your car looking great by washing it regularly.</source>
+               <target>Keep your car looking great by washing it regularly.</target>
+            </segment>
+         </unit>
+         <group id="d22e8bxmarktaskbody-3">
+            <group id="d22e9bxmarksteps-4">
+               <group id="d22e10bxmarkstep-5">
+                  <unit id="cmd-6">
+                     <segment id="cmd-6seg">
+                        <source>Move the car onto the driveway. Avoid washing the car in direct
+                           sunlight as this might damage the paint.</source>
+                        <target>Move the car onto the driveway. Avoid washing the car in direct
+                           sunlight as this might damage the paint.</target>
+                     </segment>
+                  </unit>
+               </group>
+               <group id="d22e13bxmarkstep-7">
+                  <unit id="cmd-8">
+                     <segment id="cmd-8seg">
+                        <source>Attach the water hose to a spout and pull the free end over to the
+                           car.</source>
+                        <target>Attach the water hose to a spout and pull the free end over to the
+                           car.</target>
+                     </segment>
+                  </unit>
+               </group>
+               <group id="d22e16bxmarkstep-9">
+                  <unit id="cmd-10">
+                     <segment id="cmd-10seg">
+                        <source>Fill a bucket with soapy water.</source>
+                        <target>Fill a bucket with soapy water.</target>
+                     </segment>
+                  </unit>
+               </group>
+               <group id="d22e19bxmarkstep-11">
+                  <unit id="cmd-12">
+                     <segment id="cmd-12seg">
+                        <source>Use a sponge to apply the soapy water to the car and gently remove
+                           the dirt.</source>
+                        <target>Use a sponge to apply the soapy water to the car and gently remove
+                           the dirt.</target>
+                     </segment>
+                  </unit>
+               </group>
+               <group id="d22e22bxmarkstep-13">
+                  <unit id="cmd-14">
+                     <segment id="cmd-14seg">
+                        <source>Rinse the car by spraying clean water from the hose.</source>
+                        <target>Rinse the car by spraying clean water from the hose.</target>
+                     </segment>
+                  </unit>
+               </group>
+               <group id="d22e25bxmarkstep-15">
+                  <unit id="cmd-16">
+                     <segment id="cmd-16seg">
+                        <source>Dry the car using a dampened chamois.</source>
+                        <target>Dry the car using a dampened chamois.</target>
+                     </segment>
+                  </unit>
+               </group>
+            </group>
+            <group id="d22e28bxmarkresult-17">
+               <group id="d22e29bxmarkp-18">
+                  <group id="d22e30cxmarkimage-19">
+                     <unit id="d22e30" name="empty_placeholder">
+                        <segment>
+                           <source/>
+                        </segment>
+                     </unit>
+                  </group>
+               </group>
+            </group>
+         </group>
+         <group id="d22e31bxmarkrelated-links-20">
+            <group id="d22e32cxmarklink-21">
+               <unit id="d22e32" name="empty_placeholder">
+                  <segment>
+                     <source/>
+                  </segment>
+               </unit>
+            </group>
+         </group>
+      </group>
+   </file>
+   <file
+      original="/Users/george/Dropbox/promo/conferences/2016/xliff/dita/garage/tasks/garagetaskoverview.dita"
+      id="d1e334">
+      <skeleton>
+         <xmrk:nest>
+            <xmrk:type u_id="unique_7">concept</xmrk:type>
+            <xmrk:outputURI>tasks/garagetaskoverview.dita</xmrk:outputURI>
+            <xmrk:file
+               xtrf="/Users/george/Dropbox/promo/conferences/2016/xliff/dita/garage/tasks/garagetaskoverview.dita">
+               <!-- This file is part of the DITA Open Toolkit project hosted on 
+     Sourceforge.net. See the accompanying license.txt file for 
+     applicable licenses.-->
+               <!-- (C) Copyright IBM Corporation 2001, 2005. All Rights Reserved.
+ *-->
+               <xmrk:concept xmarker_idref="concept-0" id="taskconcept" xml:lang="en-us"
+                  ditaarch:DITAArchVersion="1.2"
+                  domains="(topic concept)                            (topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)    "
+                  class="- topic/topic concept/concept ">
+                  <xmrk:title xmarker_idref="title-1" class="- topic/title "/>
+                  <xmrk:shortdesc xmarker_idref="shortdesc-2" class="- topic/shortdesc "/>
+                  <xmrk:conbody xmarker_idref="conbody-3" class="- topic/body  concept/conbody "/>
+               </xmrk:concept>
+            </xmrk:file>
+         </xmrk:nest>
+      </skeleton>
+      <!-- This file is part of the DITA Open Toolkit project hosted on 
+     Sourceforge.net. See the accompanying license.txt file for 
+     applicable licenses.-->
+      <!-- (C) Copyright IBM Corporation 2001, 2005. All Rights Reserved.
+ *-->
+      <group id="d27e3bxmarkconcept-0">
+         <unit id="title-1">
+            <segment id="title-1seg">
+               <source>Garage Tasks</source>
+               <target>Garage Tasks</target>
+            </segment>
+         </unit>
+         <unit id="shortdesc-2">
+            <segment id="shortdesc-2seg">
+               <source>When you go into the garage, be prepared to get your hands dirty!</source>
+               <target>When you go into the garage, be prepared to get your hands dirty!</target>
+            </segment>
+         </unit>
+         <group id="d27e8cxmarkconbody-3">
+            <unit id="d27e8" name="empty_placeholder">
+               <segment>
+                  <source/>
+               </segment>
+            </unit>
+         </group>
+      </group>
+   </file>
+   <file
+      original="/Users/george/Dropbox/promo/conferences/2016/xliff/dita/garage/tasks/organizing.dita"
+      id="d1e375">
+      <skeleton>
+         <xmrk:nest>
+            <xmrk:type u_id="unique_8">task</xmrk:type>
+            <xmrk:outputURI>tasks/organizing.dita</xmrk:outputURI>
+            <xmrk:file
+               xtrf="/Users/george/Dropbox/promo/conferences/2016/xliff/dita/garage/tasks/organizing.dita">
+               <!-- This file is part of the DITA Open Toolkit project hosted on 
+     Sourceforge.net. See the accompanying license.txt file for 
+     applicable licenses.-->
+               <!-- (C) Copyright IBM Corporation 2001, 2005. All Rights Reserved.
+ *-->
+               <xmrk:task xmarker_idref="task-0" id="organize" xml:lang="en-us"
+                  ditaarch:DITAArchVersion="1.2"
+                  domains="(topic task)                            (topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)                            (topic task strictTaskbody-c)    "
+                  class="- topic/topic task/task ">
+                  <xmrk:title xmarker_idref="title-1" class="- topic/title "/>
+                  <xmrk:shortdesc xmarker_idref="shortdesc-2" class="- topic/shortdesc "/>
+                  <xmrk:taskbody xmarker_idref="taskbody-3" class="- topic/body task/taskbody "/>
+               </xmrk:task>
+            </xmrk:file>
+         </xmrk:nest>
+      </skeleton>
+      <!-- This file is part of the DITA Open Toolkit project hosted on 
+     Sourceforge.net. See the accompanying license.txt file for 
+     applicable licenses.-->
+      <!-- (C) Copyright IBM Corporation 2001, 2005. All Rights Reserved.
+ *-->
+      <group id="d32e3bxmarktask-0">
+         <unit id="title-1">
+            <segment id="title-1seg">
+               <source>Organizing the workbench and tools</source>
+               <target>Organizing the workbench and tools</target>
+            </segment>
+         </unit>
+         <unit id="shortdesc-2">
+            <segment id="shortdesc-2seg">
+               <source>Keep your garage neat by organizing the things you keep in the
+                  garage.</source>
+               <target>Keep your garage neat by organizing the things you keep in the
+                  garage.</target>
+            </segment>
+         </unit>
+         <group id="d32e8cxmarktaskbody-3">
+            <unit id="d32e8" name="empty_placeholder">
+               <segment>
+                  <source/>
+               </segment>
+            </unit>
+         </group>
+      </group>
+   </file>
+   <file
+      original="/Users/george/Dropbox/promo/conferences/2016/xliff/dita/garage/tasks/shovellingsnow.dita"
+      id="d1e391">
+      <skeleton>
+         <xmrk:nest>
+            <xmrk:type u_id="unique_9">task</xmrk:type>
+            <xmrk:outputURI>tasks/shovellingsnow.dita</xmrk:outputURI>
+            <xmrk:file
+               xtrf="/Users/george/Dropbox/promo/conferences/2016/xliff/dita/garage/tasks/shovellingsnow.dita">
+               <!-- This file is part of the DITA Open Toolkit project hosted on 
+     Sourceforge.net. See the accompanying license.txt file for 
+     applicable licenses.-->
+               <!-- (C) Copyright IBM Corporation 2001, 2005. All Rights Reserved.
+ *-->
+               <xmrk:task xmarker_idref="task-0" id="shovellingsnow" xml:lang="en-us"
+                  ditaarch:DITAArchVersion="1.2"
+                  domains="(topic task)                            (topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)                            (topic task strictTaskbody-c)    "
+                  class="- topic/topic task/task ">
+                  <xmrk:title xmarker_idref="title-1" class="- topic/title "/>
+                  <xmrk:shortdesc xmarker_idref="shortdesc-2" class="- topic/shortdesc "/>
+                  <xmrk:taskbody xmarker_idref="taskbody-3" class="- topic/body task/taskbody ">
+                     <!--<context><p></p></context>-->
+                     <xmrk:steps xmarker_idref="steps-4" class="- topic/ol task/steps ">
+                        <xmrk:step xmarker_idref="step-5" class="- topic/li task/step ">
+                           <xmrk:cmd xmarker_idref="cmd-6" class="- topic/ph task/cmd "/>
+                        </xmrk:step>
+                        <xmrk:step xmarker_idref="step-7" class="- topic/li task/step ">
+                           <xmrk:cmd xmarker_idref="cmd-8" class="- topic/ph task/cmd "/>
+                        </xmrk:step>
+                        <xmrk:step xmarker_idref="step-9" class="- topic/li task/step ">
+                           <xmrk:cmd xmarker_idref="cmd-10" class="- topic/ph task/cmd "/>
+                        </xmrk:step>
+                        <xmrk:step xmarker_idref="step-11" class="- topic/li task/step ">
+                           <xmrk:cmd xmarker_idref="cmd-12" class="- topic/ph task/cmd "/>
+                        </xmrk:step>
+                     </xmrk:steps>
+                  </xmrk:taskbody>
+                  <xmrk:related-links xmarker_idref="related-links-13"
+                     class="- topic/related-links ">
+                     <xmrk:link xmarker_idref="link-14" href="../concepts/snowshovel.dita"
+                        format="dita" type="concept" class="- topic/link "/>
+                  </xmrk:related-links>
+               </xmrk:task>
+            </xmrk:file>
+         </xmrk:nest>
+      </skeleton>
+      <!-- This file is part of the DITA Open Toolkit project hosted on 
+     Sourceforge.net. See the accompanying license.txt file for 
+     applicable licenses.-->
+      <!-- (C) Copyright IBM Corporation 2001, 2005. All Rights Reserved.
+ *-->
+      <group id="d37e3bxmarktask-0">
+         <unit id="title-1">
+            <segment id="title-1seg">
+               <source>Shovelling snow</source>
+               <target>Shovelling snow</target>
+            </segment>
+         </unit>
+         <unit id="shortdesc-2">
+            <segment id="shortdesc-2seg">
+               <source>Keep your driveway and sidewalks clear of snow and ice by shovelling after
+                  any snowfall.</source>
+               <target>Keep your driveway and sidewalks clear of snow and ice by shovelling after
+                  any snowfall.</target>
+            </segment>
+         </unit>
+         <group id="d37e8bxmarktaskbody-3">
+            <!--<context><p></p></context>-->
+            <group id="d37e10bxmarksteps-4">
+               <group id="d37e11bxmarkstep-5">
+                  <unit id="cmd-6">
+                     <segment id="cmd-6seg">
+                        <source>Get the shovel out of the garage</source>
+                        <target>Get the shovel out of the garage</target>
+                     </segment>
+                  </unit>
+               </group>
+               <group id="d37e14bxmarkstep-7">
+                  <unit id="cmd-8">
+                     <segment id="cmd-8seg">
+                        <source>Shovel the driveway, starting at the garage door and working out to
+                           the street.</source>
+                        <target>Shovel the driveway, starting at the garage door and working out to
+                           the street.</target>
+                     </segment>
+                  </unit>
+               </group>
+               <group id="d37e17bxmarkstep-9">
+                  <unit id="cmd-10">
+                     <segment id="cmd-10seg">
+                        <source>Shovel the sidewalk in front of your house.</source>
+                        <target>Shovel the sidewalk in front of your house.</target>
+                     </segment>
+                  </unit>
+               </group>
+               <group id="d37e20bxmarkstep-11">
+                  <unit id="cmd-12">
+                     <segment id="cmd-12seg">
+                        <source>Shovel the walk to your front door.</source>
+                        <target>Shovel the walk to your front door.</target>
+                     </segment>
+                  </unit>
+               </group>
+            </group>
+         </group>
+         <group id="d37e23bxmarkrelated-links-13">
+            <group id="d37e24cxmarklink-14">
+               <unit id="d37e24" name="empty_placeholder">
+                  <segment>
+                     <source/>
+                  </segment>
+               </unit>
+            </group>
+         </group>
+      </group>
+   </file>
+   <file
+      original="/Users/george/Dropbox/promo/conferences/2016/xliff/dita/garage/tasks/spraypainting.dita"
+      id="d1e427">
+      <skeleton>
+         <xmrk:nest>
+            <xmrk:type u_id="unique_10">task</xmrk:type>
+            <xmrk:outputURI>tasks/spraypainting.dita</xmrk:outputURI>
+            <xmrk:file
+               xtrf="/Users/george/Dropbox/promo/conferences/2016/xliff/dita/garage/tasks/spraypainting.dita">
+               <!-- This file is part of the DITA Open Toolkit project hosted on 
+     Sourceforge.net. See the accompanying license.txt file for 
+     applicable licenses.-->
+               <!-- (C) Copyright IBM Corporation 2001, 2005. All Rights Reserved.
+ *-->
+               <xmrk:task xmarker_idref="task-0" id="spraypaint" xml:lang="en-us"
+                  ditaarch:DITAArchVersion="1.2"
+                  domains="(topic task)                            (topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)                            (topic task strictTaskbody-c)    "
+                  class="- topic/topic task/task ">
+                  <xmrk:title xmarker_idref="title-1" class="- topic/title "/>
+                  <xmrk:shortdesc xmarker_idref="shortdesc-2" class="- topic/shortdesc "/>
+                  <xmrk:taskbody xmarker_idref="taskbody-3" class="- topic/body task/taskbody ">
+                     <xmrk:context xmarker_idref="context-4" class="- topic/section task/context ">
+                        <xmrk:p xmarker_idref="p-5" class="- topic/p "/>
+                     </xmrk:context>
+                     <xmrk:steps xmarker_idref="steps-6" class="- topic/ol task/steps ">
+                        <xmrk:step xmarker_idref="step-7" class="- topic/li task/step ">
+                           <xmrk:cmd xmarker_idref="cmd-8" class="- topic/ph task/cmd "/>
+                        </xmrk:step>
+                        <xmrk:step xmarker_idref="step-9" class="- topic/li task/step ">
+                           <xmrk:cmd xmarker_idref="cmd-10" class="- topic/ph task/cmd "/>
+                        </xmrk:step>
+                        <xmrk:step xmarker_idref="step-11" class="- topic/li task/step ">
+                           <xmrk:cmd xmarker_idref="cmd-12" class="- topic/ph task/cmd "/>
+                        </xmrk:step>
+                        <xmrk:step xmarker_idref="step-13" class="- topic/li task/step ">
+                           <xmrk:cmd xmarker_idref="cmd-14" class="- topic/ph task/cmd "/>
+                        </xmrk:step>
+                        <xmrk:step xmarker_idref="step-15" class="- topic/li task/step ">
+                           <xmrk:cmd xmarker_idref="cmd-16" class="- topic/ph task/cmd "/>
+                        </xmrk:step>
+                     </xmrk:steps>
+                  </xmrk:taskbody>
+                  <xmrk:related-links xmarker_idref="related-links-17"
+                     class="- topic/related-links ">
+                     <xmrk:link xmarker_idref="link-18" href="../concepts/paint.dita" format="dita"
+                        type="concept" class="- topic/link "/>
+                  </xmrk:related-links>
+               </xmrk:task>
+            </xmrk:file>
+         </xmrk:nest>
+      </skeleton>
+      <!-- This file is part of the DITA Open Toolkit project hosted on 
+     Sourceforge.net. See the accompanying license.txt file for 
+     applicable licenses.-->
+      <!-- (C) Copyright IBM Corporation 2001, 2005. All Rights Reserved.
+ *-->
+      <group id="d42e3bxmarktask-0">
+         <unit id="title-1">
+            <segment id="title-1seg">
+               <source>Spray painting</source>
+               <target>Spray painting</target>
+            </segment>
+         </unit>
+         <unit id="shortdesc-2">
+            <segment id="shortdesc-2seg">
+               <source>When paint is applied using a spray nozzle, it is referred to as spray
+                  painting.</source>
+               <target>When paint is applied using a spray nozzle, it is referred to as spray
+                  painting.</target>
+            </segment>
+         </unit>
+         <group id="d42e8bxmarktaskbody-3">
+            <group id="d42e9bxmarkcontext-4">
+               <unit id="p-5">
+                  <segment id="p-5seg">
+                     <source>The garage is a good place to spray paint.</source>
+                     <target>The garage is a good place to spray paint.</target>
+                  </segment>
+               </unit>
+            </group>
+            <group id="d42e12bxmarksteps-6">
+               <group id="d42e13bxmarkstep-7">
+                  <unit id="cmd-8">
+                     <segment id="cmd-8seg">
+                        <source>Move the car out of the garage to avoid getting paint on
+                           it.</source>
+                        <target>Move the car out of the garage to avoid getting paint on
+                           it.</target>
+                     </segment>
+                  </unit>
+               </group>
+               <group id="d42e16bxmarkstep-9">
+                  <unit id="cmd-10">
+                     <segment id="cmd-10seg">
+                        <source>Place newspaper, cardboard, or a drop-cloth on the garage
+                           floor.</source>
+                        <target>Place newspaper, cardboard, or a drop-cloth on the garage
+                           floor.</target>
+                     </segment>
+                  </unit>
+               </group>
+               <group id="d42e19bxmarkstep-11">
+                  <unit id="cmd-12">
+                     <segment id="cmd-12seg">
+                        <source>Place the object to be painted on the covered area.</source>
+                        <target>Place the object to be painted on the covered area.</target>
+                     </segment>
+                  </unit>
+               </group>
+               <group id="d42e22bxmarkstep-13">
+                  <unit id="cmd-14">
+                     <segment id="cmd-14seg">
+                        <source>Follow the directions on the paint can to paint the object.</source>
+                        <target>Follow the directions on the paint can to paint the object.</target>
+                     </segment>
+                  </unit>
+               </group>
+               <group id="d42e25bxmarkstep-15">
+                  <unit id="cmd-16">
+                     <segment id="cmd-16seg">
+                        <source>Let the paint dry thoroughly before you move the object.</source>
+                        <target>Let the paint dry thoroughly before you move the object.</target>
+                     </segment>
+                  </unit>
+               </group>
+            </group>
+         </group>
+         <group id="d42e28bxmarkrelated-links-17">
+            <group id="d42e29cxmarklink-18">
+               <unit id="d42e29" name="empty_placeholder">
+                  <segment>
+                     <source/>
+                  </segment>
+               </unit>
+            </group>
+         </group>
+      </group>
+   </file>
+   <file
+      original="/Users/george/Dropbox/promo/conferences/2016/xliff/dita/garage/tasks/takinggarbage.dita"
+      id="d1e469">
+      <skeleton>
+         <xmrk:nest>
+            <xmrk:type u_id="unique_11">task</xmrk:type>
+            <xmrk:outputURI>tasks/takinggarbage.dita</xmrk:outputURI>
+            <xmrk:file
+               xtrf="/Users/george/Dropbox/promo/conferences/2016/xliff/dita/garage/tasks/takinggarbage.dita">
+               <!-- This file is part of the DITA Open Toolkit project hosted on 
+     Sourceforge.net. See the accompanying license.txt file for 
+     applicable licenses.-->
+               <!-- (C) Copyright IBM Corporation 2001, 2005. All Rights Reserved.
+ *-->
+               <xmrk:task xmarker_idref="task-0" id="takinggarbage" xml:lang="en-us"
+                  ditaarch:DITAArchVersion="1.2"
+                  domains="(topic task)                            (topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)                            (topic task strictTaskbody-c)    "
+                  class="- topic/topic task/task ">
+                  <xmrk:title xmarker_idref="title-1" class="- topic/title "/>
+                  <xmrk:shortdesc xmarker_idref="shortdesc-2" class="- topic/shortdesc "/>
+                  <xmrk:taskbody xmarker_idref="taskbody-3" class="- topic/body task/taskbody ">
+                     <xmrk:context xmarker_idref="context-4" class="- topic/section task/context ">
+                        <xmrk:p xmarker_idref="p-5" class="- topic/p "/>
+                     </xmrk:context>
+                     <xmrk:steps xmarker_idref="steps-6" class="- topic/ol task/steps ">
+                        <xmrk:step xmarker_idref="step-7" class="- topic/li task/step ">
+                           <xmrk:cmd xmarker_idref="cmd-8" class="- topic/ph task/cmd "/>
+                        </xmrk:step>
+                        <xmrk:step xmarker_idref="step-9" class="- topic/li task/step ">
+                           <xmrk:cmd xmarker_idref="cmd-10" class="- topic/ph task/cmd "/>
+                        </xmrk:step>
+                        <xmrk:step xmarker_idref="step-11" class="- topic/li task/step ">
+                           <xmrk:cmd xmarker_idref="cmd-12" class="- topic/ph task/cmd "/>
+                        </xmrk:step>
+                     </xmrk:steps>
+                  </xmrk:taskbody>
+               </xmrk:task>
+            </xmrk:file>
+         </xmrk:nest>
+      </skeleton>
+      <!-- This file is part of the DITA Open Toolkit project hosted on 
+     Sourceforge.net. See the accompanying license.txt file for 
+     applicable licenses.-->
+      <!-- (C) Copyright IBM Corporation 2001, 2005. All Rights Reserved.
+ *-->
+      <group id="d47e3bxmarktask-0">
+         <unit id="title-1">
+            <segment id="title-1seg">
+               <source>Taking out the garbage</source>
+               <target>Taking out the garbage</target>
+            </segment>
+         </unit>
+         <unit id="shortdesc-2">
+            <segment id="shortdesc-2seg">
+               <source>Regular garbage removal is necessary for the proper functioning of a
+                  home.</source>
+               <target>Regular garbage removal is necessary for the proper functioning of a
+                  home.</target>
+            </segment>
+         </unit>
+         <group id="d47e8bxmarktaskbody-3">
+            <group id="d47e9bxmarkcontext-4">
+               <unit id="p-5">
+                  <segment id="p-5seg">
+                     <source>Your municipality collects garbage from homes once a week, usually
+                        early in the morning.</source>
+                     <target>Your municipality collects garbage from homes once a week, usually
+                        early in the morning.</target>
+                  </segment>
+               </unit>
+            </group>
+            <group id="d47e12bxmarksteps-6">
+               <group id="d47e13bxmarkstep-7">
+                  <unit id="cmd-8">
+                     <segment id="cmd-8seg">
+                        <source>Find out from the town what day of the week garbage is collected in
+                           your neighborhood.</source>
+                        <target>Find out from the town what day of the week garbage is collected in
+                           your neighborhood.</target>
+                     </segment>
+                  </unit>
+               </group>
+               <group id="d47e16bxmarkstep-9">
+                  <unit id="cmd-10">
+                     <segment id="cmd-10seg">
+                        <source>The night before collection, place the garbage cans on the
+                           curb.</source>
+                        <target>The night before collection, place the garbage cans on the
+                           curb.</target>
+                     </segment>
+                  </unit>
+               </group>
+               <group id="d47e19bxmarkstep-11">
+                  <unit id="cmd-12">
+                     <segment id="cmd-12seg">
+                        <source>After the garbage has been collected, move the cans back into your
+                           garage.</source>
+                        <target>After the garbage has been collected, move the cans back into your
+                           garage.</target>
+                     </segment>
+                  </unit>
+               </group>
+            </group>
+         </group>
+      </group>
+   </file>
+   <file
+      original="/Users/george/Dropbox/promo/conferences/2016/xliff/dita/garage/concepts/garageconceptsoverview.dita"
+      id="d1e498">
+      <skeleton>
+         <xmrk:nest>
+            <xmrk:type u_id="unique_14">concept</xmrk:type>
+            <xmrk:outputURI>concepts/garageconceptsoverview.dita</xmrk:outputURI>
+            <xmrk:file
+               xtrf="/Users/george/Dropbox/promo/conferences/2016/xliff/dita/garage/concepts/garageconceptsoverview.dita">
+               <!-- This file is part of the DITA Open Toolkit project hosted on 
+     Sourceforge.net. See the accompanying license.txt file for 
+     applicable licenses.-->
+               <!-- (C) Copyright IBM Corporation 2001, 2005. All Rights Reserved.
+ *-->
+               <xmrk:concept xmarker_idref="concept-0" id="conceptconcept" xml:lang="en-us"
+                  ditaarch:DITAArchVersion="1.2"
+                  domains="(topic concept)                            (topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)    "
+                  class="- topic/topic concept/concept ">
+                  <xmrk:title xmarker_idref="title-1" class="- topic/title "/>
+                  <xmrk:shortdesc xmarker_idref="shortdesc-2" class="- topic/shortdesc "/>
+                  <xmrk:conbody xmarker_idref="conbody-3" class="- topic/body  concept/conbody "/>
+               </xmrk:concept>
+            </xmrk:file>
+         </xmrk:nest>
+      </skeleton>
+      <!-- This file is part of the DITA Open Toolkit project hosted on 
+     Sourceforge.net. See the accompanying license.txt file for 
+     applicable licenses.-->
+      <!-- (C) Copyright IBM Corporation 2001, 2005. All Rights Reserved.
+ *-->
+      <group id="d52e3bxmarkconcept-0">
+         <unit id="title-1">
+            <segment id="title-1seg">
+               <source>Garage Concepts</source>
+               <target>Garage Concepts</target>
+            </segment>
+         </unit>
+         <unit id="shortdesc-2">
+            <segment id="shortdesc-2seg">
+               <source>A well-stocked garage can be the envy of the neighborhood.</source>
+               <target>A well-stocked garage can be the envy of the neighborhood.</target>
+            </segment>
+         </unit>
+         <group id="d52e8cxmarkconbody-3">
+            <unit id="d52e8" name="empty_placeholder">
+               <segment>
+                  <source/>
+               </segment>
+            </unit>
+         </group>
+      </group>
+   </file>
+   <file
+      original="/Users/george/Dropbox/promo/conferences/2016/xliff/dita/garage/concepts/lawnmower.dita"
+      id="d1e595">
+      <skeleton>
+         <xmrk:nest>
+            <xmrk:type u_id="unique_15">concept</xmrk:type>
+            <xmrk:outputURI>concepts/lawnmower.dita</xmrk:outputURI>
+            <xmrk:file
+               xtrf="/Users/george/Dropbox/promo/conferences/2016/xliff/dita/garage/concepts/lawnmower.dita">
+               <!-- This file is part of the DITA Open Toolkit project hosted on 
+     Sourceforge.net. See the accompanying license.txt file for 
+     applicable licenses.-->
+               <!-- (C) Copyright IBM Corporation 2001, 2005. All Rights Reserved.
+ *-->
+               <xmrk:concept xmarker_idref="concept-0" id="lawnmowerconcept" xml:lang="en-us"
+                  ditaarch:DITAArchVersion="1.2"
+                  domains="(topic concept)                            (topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)    "
+                  class="- topic/topic concept/concept ">
+                  <xmrk:title xmarker_idref="title-1" class="- topic/title "/>
+                  <xmrk:shortdesc xmarker_idref="shortdesc-2" class="- topic/shortdesc "/>
+                  <xmrk:conbody xmarker_idref="conbody-3" class="- topic/body  concept/conbody ">
+                     <xmrk:p xmarker_idref="p-4" class="- topic/p "/>
+                  </xmrk:conbody>
+               </xmrk:concept>
+            </xmrk:file>
+         </xmrk:nest>
+      </skeleton>
+      <!-- This file is part of the DITA Open Toolkit project hosted on 
+     Sourceforge.net. See the accompanying license.txt file for 
+     applicable licenses.-->
+      <!-- (C) Copyright IBM Corporation 2001, 2005. All Rights Reserved.
+ *-->
+      <group id="d57e3bxmarkconcept-0">
+         <unit id="title-1">
+            <segment id="title-1seg">
+               <source>Lawnmower</source>
+               <target>Lawnmower</target>
+            </segment>
+         </unit>
+         <unit id="shortdesc-2">
+            <segment id="shortdesc-2seg">
+               <source>The lawnmower is a machine used to cut grass in the yard.</source>
+               <target>The lawnmower is a machine used to cut grass in the yard.</target>
+            </segment>
+         </unit>
+         <group id="d57e8bxmarkconbody-3">
+            <unit id="p-4">
+               <segment id="p-4seg">
+                  <source>Lawnmowers can be electric, gas-powered, or manual.</source>
+                  <target>Lawnmowers can be electric, gas-powered, or manual.</target>
+               </segment>
+            </unit>
+         </group>
+      </group>
+   </file>
+   <file original="/Users/george/Dropbox/promo/conferences/2016/xliff/dita/garage/concepts/oil.dita"
+      id="d1e613">
+      <skeleton>
+         <xmrk:nest>
+            <xmrk:type u_id="unique_4">concept</xmrk:type>
+            <xmrk:outputURI>concepts/oil.dita</xmrk:outputURI>
+            <xmrk:file
+               xtrf="/Users/george/Dropbox/promo/conferences/2016/xliff/dita/garage/concepts/oil.dita">
+               <!-- This file is part of the DITA Open Toolkit project hosted on 
+     Sourceforge.net. See the accompanying license.txt file for 
+     applicable licenses.-->
+               <!-- (C) Copyright IBM Corporation 2001, 2005. All Rights Reserved.
+ *-->
+               <xmrk:concept xmarker_idref="concept-0" id="oilconcept" xml:lang="en-us"
+                  ditaarch:DITAArchVersion="1.2"
+                  domains="(topic concept)                            (topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)    "
+                  class="- topic/topic concept/concept ">
+                  <xmrk:title xmarker_idref="title-1" class="- topic/title "/>
+                  <xmrk:shortdesc xmarker_idref="shortdesc-2" class="- topic/shortdesc "/>
+                  <xmrk:conbody xmarker_idref="conbody-3" class="- topic/body  concept/conbody ">
+                     <xmrk:p xmarker_idref="p-4" class="- topic/p "/>
+                  </xmrk:conbody>
+                  <xmrk:related-links xmarker_idref="related-links-5" class="- topic/related-links ">
+                     <xmrk:link xmarker_idref="link-6" href="../tasks/changingtheoil.dita"
+                        format="dita" type="task" class="- topic/link "/>
+                  </xmrk:related-links>
+               </xmrk:concept>
+            </xmrk:file>
+         </xmrk:nest>
+      </skeleton>
+      <!-- This file is part of the DITA Open Toolkit project hosted on 
+     Sourceforge.net. See the accompanying license.txt file for 
+     applicable licenses.-->
+      <!-- (C) Copyright IBM Corporation 2001, 2005. All Rights Reserved.
+ *-->
+      <group id="d62e3bxmarkconcept-0">
+         <unit id="title-1">
+            <segment id="title-1seg">
+               <source>Oil</source>
+               <target>Oil</target>
+            </segment>
+         </unit>
+         <unit id="shortdesc-2">
+            <segment id="shortdesc-2seg">
+               <source>Motor oil keeps your car's engine running smoothly.</source>
+               <target>Motor oil keeps your car's engine running smoothly.</target>
+            </segment>
+         </unit>
+         <group id="d62e8bxmarkconbody-3">
+            <unit id="p-4">
+               <segment id="p-4seg">
+                  <source>Oil should be changed every 6000 kilometers.</source>
+                  <target>Oil should be changed every 6000 kilometers.</target>
+               </segment>
+            </unit>
+         </group>
+         <group id="d62e11bxmarkrelated-links-5">
+            <group id="d62e12cxmarklink-6">
+               <unit id="d62e12" name="empty_placeholder">
+                  <segment>
+                     <source/>
+                  </segment>
+               </unit>
+            </group>
+         </group>
+      </group>
+   </file>
+   <file
+      original="/Users/george/Dropbox/promo/conferences/2016/xliff/dita/garage/concepts/paint.dita"
+      id="d1e638">
+      <skeleton>
+         <xmrk:nest>
+            <xmrk:type u_id="unique_13">concept</xmrk:type>
+            <xmrk:outputURI>concepts/paint.dita</xmrk:outputURI>
+            <xmrk:file
+               xtrf="/Users/george/Dropbox/promo/conferences/2016/xliff/dita/garage/concepts/paint.dita">
+               <!-- This file is part of the DITA Open Toolkit project hosted on 
+     Sourceforge.net. See the accompanying license.txt file for 
+     applicable licenses.-->
+               <!-- (C) Copyright IBM Corporation 2001, 2005. All Rights Reserved.
+ *-->
+               <xmrk:concept xmarker_idref="concept-0" id="paintconcept" xml:lang="en-us"
+                  ditaarch:DITAArchVersion="1.2"
+                  domains="(topic concept)                            (topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)    "
+                  class="- topic/topic concept/concept ">
+                  <xmrk:title xmarker_idref="title-1" class="- topic/title "/>
+                  <xmrk:shortdesc xmarker_idref="shortdesc-2" class="- topic/shortdesc "/>
+                  <xmrk:conbody xmarker_idref="conbody-3" class="- topic/body  concept/conbody ">
+                     <xmrk:p xmarker_idref="p-4" class="- topic/p "/>
+                  </xmrk:conbody>
+                  <xmrk:related-links xmarker_idref="related-links-5" class="- topic/related-links ">
+                     <xmrk:link xmarker_idref="link-6" href="../tasks/spraypainting.dita"
+                        format="dita" type="task" class="- topic/link "/>
+                  </xmrk:related-links>
+               </xmrk:concept>
+            </xmrk:file>
+         </xmrk:nest>
+      </skeleton>
+      <!-- This file is part of the DITA Open Toolkit project hosted on 
+     Sourceforge.net. See the accompanying license.txt file for 
+     applicable licenses.-->
+      <!-- (C) Copyright IBM Corporation 2001, 2005. All Rights Reserved.
+ *-->
+      <group id="d67e3bxmarkconcept-0">
+         <unit id="title-1">
+            <segment id="title-1seg">
+               <source>Paint</source>
+               <target>Paint</target>
+            </segment>
+         </unit>
+         <unit id="shortdesc-2">
+            <segment id="shortdesc-2seg">
+               <source>Paint is useful for refreshing the look of rooms and furniture.</source>
+               <target>Paint is useful for refreshing the look of rooms and furniture.</target>
+            </segment>
+         </unit>
+         <group id="d67e8bxmarkconbody-3">
+            <unit id="p-4">
+               <segment id="p-4seg">
+                  <source>Store unused paint in the garage.</source>
+                  <target>Store unused paint in the garage.</target>
+               </segment>
+            </unit>
+         </group>
+         <group id="d67e11bxmarkrelated-links-5">
+            <group id="d67e12cxmarklink-6">
+               <unit id="d67e12" name="empty_placeholder">
+                  <segment>
+                     <source/>
+                  </segment>
+               </unit>
+            </group>
+         </group>
+      </group>
+   </file>
+   <file
+      original="/Users/george/Dropbox/promo/conferences/2016/xliff/dita/garage/concepts/shelving.dita"
+      id="d1e663">
+      <skeleton>
+         <xmrk:nest>
+            <xmrk:type u_id="unique_16">concept</xmrk:type>
+            <xmrk:outputURI>concepts/shelving.dita</xmrk:outputURI>
+            <xmrk:file
+               xtrf="/Users/george/Dropbox/promo/conferences/2016/xliff/dita/garage/concepts/shelving.dita">
+               <!-- This file is part of the DITA Open Toolkit project hosted on 
+     Sourceforge.net. See the accompanying license.txt file for 
+     applicable licenses.-->
+               <!-- (C) Copyright IBM Corporation 2001, 2005. All Rights Reserved.=
+ *-->
+               <xmrk:concept xmarker_idref="concept-0" id="shelvingconcept" xml:lang="en-us"
+                  ditaarch:DITAArchVersion="1.2"
+                  domains="(topic concept)                            (topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)    "
+                  class="- topic/topic concept/concept ">
+                  <xmrk:title xmarker_idref="title-1" class="- topic/title "/>
+                  <xmrk:shortdesc xmarker_idref="shortdesc-2" class="- topic/shortdesc "/>
+                  <xmrk:conbody xmarker_idref="conbody-3" class="- topic/body  concept/conbody ">
+                     <xmrk:p xmarker_idref="p-4" class="- topic/p "/>
+                  </xmrk:conbody>
+                  <xmrk:related-links xmarker_idref="related-links-5" class="- topic/related-links ">
+                     <xmrk:link xmarker_idref="link-6" href="../tasks/organizing.dita" format="dita"
+                        type="task" class="- topic/link "/>
+                  </xmrk:related-links>
+               </xmrk:concept>
+            </xmrk:file>
+         </xmrk:nest>
+      </skeleton>
+      <!-- This file is part of the DITA Open Toolkit project hosted on 
+     Sourceforge.net. See the accompanying license.txt file for 
+     applicable licenses.-->
+      <!-- (C) Copyright IBM Corporation 2001, 2005. All Rights Reserved.=
+ *-->
+      <group id="d72e3bxmarkconcept-0">
+         <unit id="title-1">
+            <segment id="title-1seg">
+               <source>Shelving</source>
+               <target>Shelving</target>
+            </segment>
+         </unit>
+         <unit id="shortdesc-2">
+            <segment id="shortdesc-2seg">
+               <source>Wooden or metal shelving is useful for storing things in the garage.</source>
+               <target>Wooden or metal shelving is useful for storing things in the garage.</target>
+            </segment>
+         </unit>
+         <group id="d72e8bxmarkconbody-3">
+            <unit id="p-4">
+               <segment id="p-4seg">
+                  <source>Shelving also keeps things neat and organized.</source>
+                  <target>Shelving also keeps things neat and organized.</target>
+               </segment>
+            </unit>
+         </group>
+         <group id="d72e11bxmarkrelated-links-5">
+            <group id="d72e12cxmarklink-6">
+               <unit id="d72e12" name="empty_placeholder">
+                  <segment>
+                     <source/>
+                  </segment>
+               </unit>
+            </group>
+         </group>
+      </group>
+   </file>
+   <file
+      original="/Users/george/Dropbox/promo/conferences/2016/xliff/dita/garage/concepts/snowshovel.dita"
+      id="d1e688">
+      <skeleton>
+         <xmrk:nest>
+            <xmrk:type u_id="unique_12">concept</xmrk:type>
+            <xmrk:outputURI>concepts/snowshovel.dita</xmrk:outputURI>
+            <xmrk:file
+               xtrf="/Users/george/Dropbox/promo/conferences/2016/xliff/dita/garage/concepts/snowshovel.dita">
+               <!-- This file is part of the DITA Open Toolkit project hosted on 
+     Sourceforge.net. See the accompanying license.txt file for 
+     applicable licenses.-->
+               <!-- (C) Copyright IBM Corporation 2001, 2005. All Rights Reserved.
+ *-->
+               <xmrk:concept xmarker_idref="concept-0" id="snowshovelconcept" xml:lang="en-us"
+                  ditaarch:DITAArchVersion="1.2"
+                  domains="(topic concept)                            (topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)    "
+                  class="- topic/topic concept/concept ">
+                  <xmrk:title xmarker_idref="title-1" class="- topic/title "/>
+                  <xmrk:shortdesc xmarker_idref="shortdesc-2" class="- topic/shortdesc "/>
+                  <xmrk:conbody xmarker_idref="conbody-3" class="- topic/body  concept/conbody ">
+                     <xmrk:p xmarker_idref="p-4" class="- topic/p "/>
+                  </xmrk:conbody>
+                  <xmrk:related-links xmarker_idref="related-links-5" class="- topic/related-links ">
+                     <xmrk:link xmarker_idref="link-6" href="../tasks/shovellingsnow.dita"
+                        format="dita" type="task" class="- topic/link "/>
+                  </xmrk:related-links>
+               </xmrk:concept>
+            </xmrk:file>
+         </xmrk:nest>
+      </skeleton>
+      <!-- This file is part of the DITA Open Toolkit project hosted on 
+     Sourceforge.net. See the accompanying license.txt file for 
+     applicable licenses.-->
+      <!-- (C) Copyright IBM Corporation 2001, 2005. All Rights Reserved.
+ *-->
+      <group id="d77e3bxmarkconcept-0">
+         <unit id="title-1">
+            <segment id="title-1seg">
+               <source>Snow shovel</source>
+               <target>Snow shovel</target>
+            </segment>
+         </unit>
+         <unit id="shortdesc-2">
+            <segment id="shortdesc-2seg">
+               <source>Use the snow shovel to clear the drive way and side walk of snow in the
+                  winter.</source>
+               <target>Use the snow shovel to clear the drive way and side walk of snow in the
+                  winter.</target>
+            </segment>
+         </unit>
+         <group id="d77e8bxmarkconbody-3">
+            <unit id="p-4">
+               <segment id="p-4seg">
+                  <source>A good snow shovel has a straight, wide scoop and a strong handle. To help
+                     snow come off the scoop, spray the scoop with cooking spray.</source>
+                  <target>A good snow shovel has a straight, wide scoop and a strong handle. To help
+                     snow come off the scoop, spray the scoop with cooking spray.</target>
+               </segment>
+            </unit>
+         </group>
+         <group id="d77e11bxmarkrelated-links-5">
+            <group id="d77e12cxmarklink-6">
+               <unit id="d77e12" name="empty_placeholder">
+                  <segment>
+                     <source/>
+                  </segment>
+               </unit>
+            </group>
+         </group>
+      </group>
+   </file>
+   <file
+      original="/Users/george/Dropbox/promo/conferences/2016/xliff/dita/garage/concepts/toolbox.dita"
+      id="d1e713">
+      <skeleton>
+         <xmrk:nest>
+            <xmrk:type u_id="unique_17">concept</xmrk:type>
+            <xmrk:outputURI>concepts/toolbox.dita</xmrk:outputURI>
+            <xmrk:file
+               xtrf="/Users/george/Dropbox/promo/conferences/2016/xliff/dita/garage/concepts/toolbox.dita">
+               <!-- This file is part of the DITA Open Toolkit project hosted on 
+     Sourceforge.net. See the accompanying license.txt file for 
+     applicable licenses.-->
+               <!-- (C) Copyright IBM Corporation 2001, 2005. All Rights Reserved.
+ *-->
+               <xmrk:concept xmarker_idref="concept-0" id="toolboxconcept" xml:lang="en-us"
+                  ditaarch:DITAArchVersion="1.2"
+                  domains="(topic concept)                            (topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)    "
+                  class="- topic/topic concept/concept ">
+                  <xmrk:title xmarker_idref="title-1" class="- topic/title "/>
+                  <xmrk:shortdesc xmarker_idref="shortdesc-2" class="- topic/shortdesc "/>
+                  <xmrk:conbody xmarker_idref="conbody-3" class="- topic/body  concept/conbody ">
+                     <xmrk:p xmarker_idref="p-4" class="- topic/p "/>
+                  </xmrk:conbody>
+                  <xmrk:related-links xmarker_idref="related-links-5" class="- topic/related-links ">
+                     <xmrk:link xmarker_idref="link-6" href="tools.dita" format="dita"
+                        type="concept" class="- topic/link "/>
+                     <xmrk:link xmarker_idref="link-7" href="../tasks/organizing.dita" format="dita"
+                        type="task" class="- topic/link "/>
+                  </xmrk:related-links>
+               </xmrk:concept>
+            </xmrk:file>
+         </xmrk:nest>
+      </skeleton>
+      <!-- This file is part of the DITA Open Toolkit project hosted on 
+     Sourceforge.net. See the accompanying license.txt file for 
+     applicable licenses.-->
+      <!-- (C) Copyright IBM Corporation 2001, 2005. All Rights Reserved.
+ *-->
+      <group id="d82e3bxmarkconcept-0">
+         <unit id="title-1">
+            <segment id="title-1seg">
+               <source>Tool box</source>
+               <target>Tool box</target>
+            </segment>
+         </unit>
+         <unit id="shortdesc-2">
+            <segment id="shortdesc-2seg">
+               <source>A tool box contains many compartments for organizing tools and
+                  hardware.</source>
+               <target>A tool box contains many compartments for organizing tools and
+                  hardware.</target>
+            </segment>
+         </unit>
+         <group id="d82e8bxmarkconbody-3">
+            <unit id="p-4">
+               <segment id="p-4seg">
+                  <source>Keep the tool box handy for all sorts of jobs around the house.</source>
+                  <target>Keep the tool box handy for all sorts of jobs around the house.</target>
+               </segment>
+            </unit>
+         </group>
+         <group id="d82e11bxmarkrelated-links-5">
+            <group id="d82e12cxmarklink-6">
+               <unit id="d82e12" name="empty_placeholder">
+                  <segment>
+                     <source/>
+                  </segment>
+               </unit>
+            </group>
+            <group id="d82e13cxmarklink-7">
+               <unit id="d82e13" name="empty_placeholder">
+                  <segment>
+                     <source/>
+                  </segment>
+               </unit>
+            </group>
+         </group>
+      </group>
+   </file>
+   <file
+      original="/Users/george/Dropbox/promo/conferences/2016/xliff/dita/garage/concepts/tools.dita"
+      id="d1e745">
+      <skeleton>
+         <xmrk:nest>
+            <xmrk:type u_id="unique_18">concept</xmrk:type>
+            <xmrk:outputURI>concepts/tools.dita</xmrk:outputURI>
+            <xmrk:file
+               xtrf="/Users/george/Dropbox/promo/conferences/2016/xliff/dita/garage/concepts/tools.dita">
+               <!-- This file is part of the DITA Open Toolkit project hosted on 
+     Sourceforge.net. See the accompanying license.txt file for 
+     applicable licenses.-->
+               <!-- (C) Copyright IBM Corporation 2001, 2005. All Rights Reserved.
+ *-->
+               <xmrk:concept xmarker_idref="concept-0" id="toolsconcept" xml:lang="en-us"
+                  ditaarch:DITAArchVersion="1.2"
+                  domains="(topic concept)                            (topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)    "
+                  class="- topic/topic concept/concept ">
+                  <xmrk:title xmarker_idref="title-1" class="- topic/title "/>
+                  <xmrk:shortdesc xmarker_idref="shortdesc-2" class="- topic/shortdesc "/>
+                  <xmrk:conbody xmarker_idref="conbody-3" class="- topic/body  concept/conbody ">
+                     <xmrk:p xmarker_idref="p-4" class="- topic/p "/>
+                     <xmrk:ul xmarker_idref="ul-5" class="- topic/ul ">
+                        <xmrk:li xmarker_idref="li-6" class="- topic/li "/>
+                        <xmrk:li xmarker_idref="li-7" class="- topic/li "/>
+                        <xmrk:li xmarker_idref="li-8" class="- topic/li "/>
+                        <xmrk:li xmarker_idref="li-9" class="- topic/li "/>
+                        <xmrk:li xmarker_idref="li-10" class="- topic/li "/>
+                        <xmrk:li xmarker_idref="li-11" class="- topic/li "/>
+                        <xmrk:li xmarker_idref="li-12" class="- topic/li "/>
+                        <xmrk:li xmarker_idref="li-13" audience="expert" class="- topic/li "/>
+                        <xmrk:li xmarker_idref="li-14" class="- topic/li "/>
+                        <xmrk:li xmarker_idref="li-15" class="- topic/li "/>
+                     </xmrk:ul>
+                     <xmrk:p xmarker_idref="p-16" class="- topic/p "/>
+                  </xmrk:conbody>
+                  <xmrk:related-links xmarker_idref="related-links-17"
+                     class="- topic/related-links ">
+                     <xmrk:link xmarker_idref="link-18" href="toolbox.dita" format="dita"
+                        type="concept" class="- topic/link "/>
+                     <xmrk:link xmarker_idref="link-19" href="../tasks/organizing.dita"
+                        format="dita" type="task" class="- topic/link "/>
+                  </xmrk:related-links>
+               </xmrk:concept>
+            </xmrk:file>
+         </xmrk:nest>
+      </skeleton>
+      <!-- This file is part of the DITA Open Toolkit project hosted on 
+     Sourceforge.net. See the accompanying license.txt file for 
+     applicable licenses.-->
+      <!-- (C) Copyright IBM Corporation 2001, 2005. All Rights Reserved.
+ *-->
+      <group id="d87e3bxmarkconcept-0">
+         <unit id="title-1">
+            <segment id="title-1seg">
+               <source>Tools</source>
+               <target>Tools</target>
+            </segment>
+         </unit>
+         <unit id="shortdesc-2">
+            <segment id="shortdesc-2seg">
+               <source>Invest in a good set of tools for doing all kinds of tasks around the
+                  house.</source>
+               <target>Invest in a good set of tools for doing all kinds of tasks around the
+                  house.</target>
+            </segment>
+         </unit>
+         <group id="d87e8bxmarkconbody-3">
+            <unit id="p-4">
+               <segment id="p-4seg">
+                  <source>Useful tools include the following items:</source>
+                  <target>Useful tools include the following items:</target>
+               </segment>
+            </unit>
+            <group id="d87e11bxmarkul-5">
+               <unit id="li-6">
+                  <segment id="li-6seg">
+                     <source>Hammer</source>
+                     <target>Hammer</target>
+                  </segment>
+               </unit>
+               <unit id="li-7">
+                  <segment id="li-7seg">
+                     <source>Screw driver set</source>
+                     <target>Screw driver set</target>
+                  </segment>
+               </unit>
+               <unit id="li-8">
+                  <segment id="li-8seg">
+                     <source>Wrench set</source>
+                     <target>Wrench set</target>
+                  </segment>
+               </unit>
+               <unit id="li-9">
+                  <segment id="li-9seg">
+                     <source>Nails and screws</source>
+                     <target>Nails and screws</target>
+                  </segment>
+               </unit>
+               <unit id="li-10">
+                  <segment id="li-10seg">
+                     <source>Level</source>
+                     <target>Level</target>
+                  </segment>
+               </unit>
+               <unit id="li-11">
+                  <segment id="li-11seg">
+                     <source>Saws</source>
+                     <target>Saws</target>
+                  </segment>
+               </unit>
+               <unit id="li-12">
+                  <segment id="li-12seg">
+                     <source>Drill</source>
+                     <target>Drill</target>
+                  </segment>
+               </unit>
+               <unit id="li-13">
+                  <segment id="li-13seg">
+                     <source>Air pressure gauge</source>
+                     <target>Air pressure gauge</target>
+                  </segment>
+               </unit>
+               <unit id="li-14">
+                  <segment id="li-14seg">
+                     <source>Spade</source>
+                     <target>Spade</target>
+                  </segment>
+               </unit>
+               <unit id="li-15">
+                  <segment id="li-15seg">
+                     <source>Rake</source>
+                     <target>Rake</target>
+                  </segment>
+               </unit>
+            </group>
+            <unit id="p-16">
+               <segment id="p-16seg">
+                  <source>Keep your tools organized in a tool box which you can store in the
+                     garage.</source>
+                  <target>Keep your tools organized in a tool box which you can store in the
+                     garage.</target>
+               </segment>
+            </unit>
+         </group>
+         <group id="d87e34bxmarkrelated-links-17">
+            <group id="d87e35cxmarklink-18">
+               <unit id="d87e35" name="empty_placeholder">
+                  <segment>
+                     <source/>
+                  </segment>
+               </unit>
+            </group>
+            <group id="d87e36cxmarklink-19">
+               <unit id="d87e36" name="empty_placeholder">
+                  <segment>
+                     <source/>
+                  </segment>
+               </unit>
+            </group>
+         </group>
+      </group>
+   </file>
+   <file
+      original="/Users/george/Dropbox/promo/conferences/2016/xliff/dita/garage/concepts/waterhose.dita"
+      id="d1e801">
+      <skeleton>
+         <xmrk:nest>
+            <xmrk:type u_id="unique_6">concept</xmrk:type>
+            <xmrk:outputURI>concepts/waterhose.dita</xmrk:outputURI>
+            <xmrk:file
+               xtrf="/Users/george/Dropbox/promo/conferences/2016/xliff/dita/garage/concepts/waterhose.dita">
+               <!-- This file is part of the DITA Open Toolkit project hosted on 
+     Sourceforge.net. See the accompanying license.txt file for 
+     applicable licenses.-->
+               <!-- (C) Copyright IBM Corporation 2001, 2005. All Rights Reserved.
+ *-->
+               <xmrk:concept xmarker_idref="concept-0" id="waterhoseconcept" xml:lang="en-us"
+                  ditaarch:DITAArchVersion="1.2"
+                  domains="(topic concept)                            (topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)    "
+                  class="- topic/topic concept/concept ">
+                  <xmrk:title xmarker_idref="title-1" class="- topic/title "/>
+                  <xmrk:shortdesc xmarker_idref="shortdesc-2" class="- topic/shortdesc "/>
+                  <xmrk:conbody xmarker_idref="conbody-3" class="- topic/body  concept/conbody ">
+                     <xmrk:p xmarker_idref="p-4" class="- topic/p "/>
+                  </xmrk:conbody>
+                  <xmrk:related-links xmarker_idref="related-links-5" class="- topic/related-links ">
+                     <xmrk:link xmarker_idref="link-6" href="../tasks/washingthecar.dita"
+                        format="dita" type="task" class="- topic/link "/>
+                  </xmrk:related-links>
+               </xmrk:concept>
+            </xmrk:file>
+         </xmrk:nest>
+      </skeleton>
+      <!-- This file is part of the DITA Open Toolkit project hosted on 
+     Sourceforge.net. See the accompanying license.txt file for 
+     applicable licenses.-->
+      <!-- (C) Copyright IBM Corporation 2001, 2005. All Rights Reserved.
+ *-->
+      <group id="d92e3bxmarkconcept-0">
+         <unit id="title-1">
+            <segment id="title-1seg">
+               <source>Water hose</source>
+               <target>Water hose</target>
+            </segment>
+         </unit>
+         <unit id="shortdesc-2">
+            <segment id="shortdesc-2seg">
+               <source>A water hose is useful for cleaning and gardening projects around the
+                  yard.</source>
+               <target>A water hose is useful for cleaning and gardening projects around the
+                  yard.</target>
+            </segment>
+         </unit>
+         <group id="d92e8bxmarkconbody-3">
+            <unit id="p-4">
+               <segment id="p-4seg">
+                  <source>Keep the hose coiled on a large hook near a water spout.</source>
+                  <target>Keep the hose coiled on a large hook near a water spout.</target>
+               </segment>
+            </unit>
+         </group>
+         <group id="d92e11bxmarkrelated-links-5">
+            <group id="d92e12cxmarklink-6">
+               <unit id="d92e12" name="empty_placeholder">
+                  <segment>
+                     <source/>
+                  </segment>
+               </unit>
+            </group>
+         </group>
+      </group>
+   </file>
+   <file
+      original="/Users/george/Dropbox/promo/conferences/2016/xliff/dita/garage/concepts/wheelbarrow.dita"
+      id="d1e826">
+      <skeleton>
+         <xmrk:nest>
+            <xmrk:type u_id="unique_19">concept</xmrk:type>
+            <xmrk:outputURI>concepts/wheelbarrow.dita</xmrk:outputURI>
+            <xmrk:file
+               xtrf="/Users/george/Dropbox/promo/conferences/2016/xliff/dita/garage/concepts/wheelbarrow.dita">
+               <!-- This file is part of the DITA Open Toolkit project hosted on 
+     Sourceforge.net. See the accompanying license.txt file for 
+     applicable licenses.-->
+               <!-- (C) Copyright IBM Corporation 2001, 2005. All Rights Reserved.
+ *-->
+               <xmrk:concept xmarker_idref="concept-0" id="wheelbarrow" xml:lang="en-us"
+                  ditaarch:DITAArchVersion="1.2"
+                  domains="(topic concept)                            (topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)    "
+                  class="- topic/topic concept/concept ">
+                  <xmrk:title xmarker_idref="title-1" class="- topic/title "/>
+                  <xmrk:shortdesc xmarker_idref="shortdesc-2" class="- topic/shortdesc "/>
+                  <xmrk:conbody xmarker_idref="conbody-3" class="- topic/body  concept/conbody "/>
+               </xmrk:concept>
+            </xmrk:file>
+         </xmrk:nest>
+      </skeleton>
+      <!-- This file is part of the DITA Open Toolkit project hosted on 
+     Sourceforge.net. See the accompanying license.txt file for 
+     applicable licenses.-->
+      <!-- (C) Copyright IBM Corporation 2001, 2005. All Rights Reserved.
+ *-->
+      <group id="d97e3bxmarkconcept-0">
+         <unit id="title-1">
+            <segment id="title-1seg">
+               <source>Wheel barrow</source>
+               <target>Wheel barrow</target>
+            </segment>
+         </unit>
+         <unit id="shortdesc-2">
+            <segment id="shortdesc-2seg">
+               <source>A good wheel barrow will save your back from extensive trauma when you
+                  garden.</source>
+               <target>A good wheel barrow will save your back from extensive trauma when you
+                  garden.</target>
+            </segment>
+         </unit>
+         <group id="d97e8cxmarkconbody-3">
+            <unit id="d97e8" name="empty_placeholder">
+               <segment>
+                  <source/>
+               </segment>
+            </unit>
+         </group>
+      </group>
+   </file>
+   <file
+      original="/Users/george/Dropbox/promo/conferences/2016/xliff/dita/garage/concepts/workbench.dita"
+      id="d1e842">
+      <skeleton>
+         <xmrk:nest>
+            <xmrk:type u_id="unique_20">concept</xmrk:type>
+            <xmrk:outputURI>concepts/workbench.dita</xmrk:outputURI>
+            <xmrk:file
+               xtrf="/Users/george/Dropbox/promo/conferences/2016/xliff/dita/garage/concepts/workbench.dita">
+               <!-- This file is part of the DITA Open Toolkit project hosted on 
+     Sourceforge.net. See the accompanying license.txt file for 
+     applicable licenses.-->
+               <!-- (C) Copyright IBM Corporation 2001, 2005. All Rights Reserved.
+ *-->
+               <xmrk:concept xmarker_idref="concept-0" id="workbenchconcept" xml:lang="en-us"
+                  ditaarch:DITAArchVersion="1.2"
+                  domains="(topic concept)                            (topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)    "
+                  class="- topic/topic concept/concept ">
+                  <xmrk:title xmarker_idref="title-1" class="- topic/title "/>
+                  <xmrk:shortdesc xmarker_idref="shortdesc-2" class="- topic/shortdesc "/>
+                  <xmrk:conbody xmarker_idref="conbody-3" class="- topic/body  concept/conbody "/>
+                  <xmrk:related-links xmarker_idref="related-links-4" class="- topic/related-links ">
+                     <xmrk:link xmarker_idref="link-5" href="../tasks/organizing.dita" format="dita"
+                        type="task" class="- topic/link "/>
+                  </xmrk:related-links>
+               </xmrk:concept>
+            </xmrk:file>
+         </xmrk:nest>
+      </skeleton>
+      <!-- This file is part of the DITA Open Toolkit project hosted on 
+     Sourceforge.net. See the accompanying license.txt file for 
+     applicable licenses.-->
+      <!-- (C) Copyright IBM Corporation 2001, 2005. All Rights Reserved.
+ *-->
+      <group id="d102e3bxmarkconcept-0">
+         <unit id="title-1">
+            <segment id="title-1seg">
+               <source>Workbench</source>
+               <target>Workbench</target>
+            </segment>
+         </unit>
+         <unit id="shortdesc-2">
+            <segment id="shortdesc-2seg">
+               <source>Use the workbench for storing tools and hardware, and for doing small
+                  projects.</source>
+               <target>Use the workbench for storing tools and hardware, and for doing small
+                  projects.</target>
+            </segment>
+         </unit>
+         <group id="d102e8cxmarkconbody-3">
+            <unit id="d102e8" name="empty_placeholder">
+               <segment>
+                  <source/>
+               </segment>
+            </unit>
+         </group>
+         <group id="d102e9bxmarkrelated-links-4">
+            <group id="d102e10cxmarklink-5">
+               <unit id="d102e10" name="empty_placeholder">
+                  <segment>
+                     <source/>
+                  </segment>
+               </unit>
+            </group>
+         </group>
+      </group>
+   </file>
+   <file
+      original="/Users/george/Dropbox/promo/conferences/2016/xliff/dita/garage/concepts/wwfluid.dita"
+      id="d1e865">
+      <skeleton>
+         <xmrk:nest>
+            <xmrk:type u_id="unique_5">concept</xmrk:type>
+            <xmrk:outputURI>concepts/wwfluid.dita</xmrk:outputURI>
+            <xmrk:file
+               xtrf="/Users/george/Dropbox/promo/conferences/2016/xliff/dita/garage/concepts/wwfluid.dita">
+               <!-- This file is part of the DITA Open Toolkit project hosted on 
+     Sourceforge.net. See the accompanying license.txt file for 
+     applicable licenses.-->
+               <!-- (C) Copyright IBM Corporation 2001, 2005. All Rights Reserved.
+ *-->
+               <xmrk:concept xmarker_idref="concept-0" id="wwfluidconcept" xml:lang="en-us"
+                  ditaarch:DITAArchVersion="1.2"
+                  domains="(topic concept)                            (topic hi-d)                             (topic ut-d)                             (topic indexing-d)                            (topic hazard-d)                            (topic abbrev-d)                            (topic pr-d)                             (topic sw-d)                            (topic ui-d)    "
+                  class="- topic/topic concept/concept ">
+                  <xmrk:title xmarker_idref="title-1" class="- topic/title "/>
+                  <xmrk:shortdesc xmarker_idref="shortdesc-2" class="- topic/shortdesc "/>
+                  <xmrk:conbody xmarker_idref="conbody-3" class="- topic/body  concept/conbody ">
+                     <xmrk:p xmarker_idref="p-4" class="- topic/p "/>
+                  </xmrk:conbody>
+               </xmrk:concept>
+            </xmrk:file>
+         </xmrk:nest>
+      </skeleton>
+      <!-- This file is part of the DITA Open Toolkit project hosted on 
+     Sourceforge.net. See the accompanying license.txt file for 
+     applicable licenses.-->
+      <!-- (C) Copyright IBM Corporation 2001, 2005. All Rights Reserved.
+ *-->
+      <group id="d107e3bxmarkconcept-0">
+         <unit id="title-1">
+            <segment id="title-1seg">
+               <source>Windshield washer fluid</source>
+               <target>Windshield washer fluid</target>
+            </segment>
+         </unit>
+         <unit id="shortdesc-2">
+            <segment id="shortdesc-2seg">
+               <source>Windshield washer fluid is required to keep your windshield wipers
+                  functioning properly.</source>
+               <target>Windshield washer fluid is required to keep your windshield wipers
+                  functioning properly.</target>
+            </segment>
+         </unit>
+         <group id="d107e8bxmarkconbody-3">
+            <unit id="p-4">
+               <segment id="p-4seg">
+                  <source>Keep your car's windshield washer fluid topped up so you will have a clean
+                     windshield whatever the weather or insect population.</source>
+                  <target>Keep your car's windshield washer fluid topped up so you will have a clean
+                     windshield whatever the weather or insect population.</target>
+               </segment>
+            </unit>
+         </group>
+      </group>
+   </file>
+</xliff>

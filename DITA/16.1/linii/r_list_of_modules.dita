@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="reference_ksm_ytf_lm">
+  <title>List of Modules</title>
+  <shortdesc>The <keyword conref="../c_conref_source.dita#concept_wc1_4gp_hm/keyword_Oxygen_Author"
+    /> training is made up of approximately 26 modules of approximately 4 lessons.</shortdesc>
+  <refbody>
+    <properties>
+      <prophead>
+        <proptypehd>Module Name</proptypehd>
+        <propvaluehd>Module Description</propvaluehd>
+      </prophead>
+      <property>
+        <proptype>Topic Workspace</proptype>
+        <propvalue>Dockable views, switching between open documents, views, perspectives,
+          layouts</propvalue>
+      </property>
+      <property>
+        <proptype>Editing Modes</proptype>
+        <propvalue>Tagged, text, content completion, grid</propvalue>
+      </property>
+      <property>
+        <proptype>Creating new topics</proptype>
+        <propvalue/>
+      </property>
+      <property>
+        <proptype>Map Manager</proptype>
+        <propvalue/>
+      </property>
+      <property>
+        <proptype>Creating and editing maps</proptype>
+        <propvalue>Creating, editing, bookmaps, root maps, relationship tables</propvalue>
+      </property>
+      <property>
+        <proptype>Opening and closing topics</proptype>
+        <propvalue>Opening, saving, closing, importing, remote topics</propvalue>
+      </property>
+      <property>
+        <proptype>Editing topic elements</proptype>
+        <propvalue>Document navigation (collapsing nodes)</propvalue>
+      </property>
+      <property>
+        <proptype>Editing topic attributes</proptype>
+        <propvalue/>
+      </property>
+      <property>
+        <proptype>Validation, troubleshooting, and shortcuts</proptype>
+        <propvalue>Validating, auto-validation, Enter to insert element, Caret/Before/After, Enter
+          to surround selection, recently used elements</propvalue>
+      </property>
+      <property>
+        <proptype>Spell-check, search</proptype>
+        <propvalue>Spell-check, search, smart paste, import, refactor search actions</propvalue>
+      </property>
+      <property>
+        <proptype>Information types</proptype>
+        <propvalue>Editing concept topics, editing task topics, editing reference topics</propvalue>
+      </property>
+      <property>
+        <proptype>Working with lists</proptype>
+        <propvalue/>
+      </property>
+      <property>
+        <proptype>Working with tables</proptype>
+        <propvalue>Sorting</propvalue>
+      </property>
+      <property>
+        <proptype>Previewing topics</proptype>
+        <propvalue/>
+      </property>
+      <property>
+        <proptype>Projects and folder structures</proptype>
+        <propvalue>Projects, folder structures</propvalue>
+      </property>
+      <property>
+        <proptype>Configuring</proptype>
+        <propvalue>Options, Global vs project, Preferences</propvalue>
+      </property>
+      <property>
+        <proptype>Using the Help</proptype>
+        <propvalue>Getting Help, <wintitle>Content Completion Helper Views (Model
+          View)</wintitle></propvalue>
+      </property>
+      <property>
+        <proptype>Authoring shortcuts</proptype>
+        <propvalue/>
+      </property>
+      <property>
+        <proptype>Re-usable content</proptype>
+        <propvalue>Conref pull, rename resource</propvalue>
+      </property>
+      <property>
+        <proptype>Conditions/Profiling</proptype>
+        <propvalue/>
+      </property>
+      <property>
+        <proptype>Working with images</proptype>
+        <propvalue/>
+      </property>
+      <property>
+        <proptype>Cross-references in topics</proptype>
+        <propvalue/>
+      </property>
+      <property>
+        <proptype>Cross-references in maps</proptype>
+        <propvalue/>
+      </property>
+      <property>
+        <proptype>Transformation scenarios</proptype>
+        <propvalue>Transformation concepts, Topics, maps, duplicating, editing,
+            <wintitle>Transformation Scenario View</wintitle></propvalue>
+      </property>
+      <property>
+        <proptype>Applying transformation scenarios</proptype>
+        <propvalue>Topics, maps, WebHelp, WebHelp Mobile, EPUB, Comments</propvalue>
+      </property>
+      <property>
+        <proptype>Reviewing features</proptype>
+        <propvalue>Track changes, highlight, draft-comment, comments, managing reviews,
+            <wintitle>Review View</wintitle></propvalue>
+      </property>
+      <property>
+        <proptype>Appendices</proptype>
+        <propvalue>Licences, upgrading, portable version, templates, MathML<draft-comment
+            author="tself">, Keys, Subject Schemes</draft-comment></propvalue>
+      </property>
+    </properties>
+  </refbody>
+</reference>
