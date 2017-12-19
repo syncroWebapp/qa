@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_cjq_s5w_l4">
+ <title></title>
+ <shortdesc></shortdesc>
+ <conbody>
+  <p id="3"><xref href="urn:x-some-resource-name" scope="peer" format="html"/></p>
+  <p/>
+  <p>aaa</p>
+ </conbody>
+</concept>
