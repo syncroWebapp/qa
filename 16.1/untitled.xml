@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN"
+                         "http://www.docbook.org/xml/4.5/docbookx.dtd"[
+                         
+                         <!ENTITY cloudwatch_metrics_resource_credit '
+            <row revision="t2">
+                           <entry><simpara><code>CPUCreditUsage</code></simpara></entry>
+                           <entry>
+                               <para>(Only valid for T2 instances) The amount of time during which physical CPUs were used for processing instructions by virtual CPUs allocated to the instance. This metric identifies the processing power required to run an application upon a selected instance.</para>
+                               <para>Units: <emphasis>CPU-minutes</emphasis></para>
+                           </entry>
+                       </row>
+                       <row revision="t2">
+                           <entry><simpara><code>CPUCreditBalance</code></simpara></entry>
+                           <entry>
+                               <para>(Only valid for T2 instances) The amount of time an instance's virtual CPUs can spend processing instructions on physical CPUs beyond what is continuously provided to the instance.  This metric identifies the processing power a selected instance can consume before operating at a reduced performance level.</para>
+                               <para>Units: <emphasis>CPU-minutes</emphasis></para>
+                           </entry>
+                       </row>'> 
+                         ]>
+<article>
+    <title>Welcome to Docbook Support in oXygen</title>
+    <sect1>
+        <title>Inline Markup and Images</title>
+        <informaltable>
+            <tgroup cols="2">
+                <colspec colname="c1" colnum="1" colwidth="1.5*"/>
+                <colspec colname="c2" colnum="2" colwidth="3*"/>
+                <thead>
+                    <row>
+                        <entry>Metric</entry>
+                        <entry>Description</entry>
+                    </row>
+                </thead>
+                <tbody>&cloudwatch_metrics_resource_credit;</tbody>
+            </tgroup>
+        </informaltable>
+    </sect1>
+</article>
