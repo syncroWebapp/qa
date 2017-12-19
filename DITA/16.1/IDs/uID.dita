@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<topic id="topic_001" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:topic.xsd">
+  <title>Topic title #1</title>
+  <body>
+    <p id="p_001">ABC</p>
+    <p id="p_002">DEF</p>
+  </body>
+  <topic id="topic_002">
+    <title>Topic title #2</title>
+    <body>
+      <p id="p_001">ABC</p>
+      <p id="p_002">DEF</p>
+    </body>
+  </topic>
+</topic>
