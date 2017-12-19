@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="videos">
+  <title>Video in DITA</title>
+  <body>
+    <p><b><u>Here's some example of videos in DITA :</u></b></p>
+    <object outputclass="video" type="video/mp4" data="videos/bunny.mp4"/>
+    <object outputclass="video" type="video/ogg" data="videos/bunny.ogg"/>
+    <object outputclass="video"
+      data="http://download.oracle.com/otndocs/products/javafx/oow2010-2.flv"/>
+  </body>
+</topic>
